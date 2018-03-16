@@ -1,0 +1,38 @@
+.ui.inverted.menu
+ {
+ 	/*background-color: rgb(17, 172, 205);
+ 	border-bottom: 1px solid rgba(255, 255, 255, 0.3);*/
+	background-color:#2962FF
+ }
+
+.chapter{
+ 	background-color: #eeeeee;
+ 	
+ }
+
+ .ui.main.container.section-holder{
+ 	padding: 2.5em;
+ }
+
+.ui.vertical.menu.menu-samping{
+ 	width: 100%;
+ }
+
+ .ui.comments .comment .avatar{
+ 	height:2.5em;
+ }
+
+ #chapter-title{
+ 	margin-top: -1rem;
+ 	padding: 2.5em;
+ 	width: 100%;
+ 	background-color: #2979FF/*rgb(47, 182, 205);*/
+ }
+
+.ui.header.white{
+	color: white;
+}
+
+.ui.header .sub.header a{
+	color: white;
+}

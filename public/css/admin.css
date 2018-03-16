@@ -1,0 +1,61 @@
+body {
+  height: calc(100% - 7em) !important;
+  background: lighten(#FAFDF0,1);
+}
+
+
+.dont-show {
+  display: none;
+}
+
+#userbutton {
+  font-size: .88em;
+
+  i {
+    font-size: 1rem;
+  }
+  
+}
+
+.button-link {
+     background:none!important;
+     color:inherit;
+     border:none; 
+     padding:0!important;
+     font: inherit;
+     cursor: pointer;
+}
+
+#maincontent {
+    margin-top: 5em;
+    margin-bottom: -7em;
+  .ribbon {
+    margin-bottom: 1.3em;
+    cursor: default;
+  }
+  
+  }
+
+
+td a{
+  color: black;
+}
+
+td a:hover{
+  color: black;
+}
+
+
+#chapter-stats{
+  margin-top: 5em;
+}
+
+.circleBase {
+    border-radius: 50%;   
+    border: 1px solid black;
+}
+
+.lesson-panel{
+  background-color: #F5F5F5;
+  margin-top: 1em;
+}
